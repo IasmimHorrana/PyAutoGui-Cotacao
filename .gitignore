@@ -1,0 +1,47 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos de log ou debug
+*.log
+
+# Configurações do VSCode ou IDEs
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Dados sensíveis ou locais
+*.env
+.env.*
+config.ini
+secrets.json
+
+# Arquivos de automação (ex: screenshots ou saídas)
+*.png
+*.jpg
+*.mp4
+output/
+captures/
+screenshots/
+
+# Banco de dados local
+*.sqlite
+*.db
+
+# Dependências instaladas localmente (caso use pip freeze > requirements.txt)
+*.egg-info/
+dist/
+build/

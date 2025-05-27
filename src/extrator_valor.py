@@ -1,0 +1,1 @@
+# Função que extrai o valor do site
